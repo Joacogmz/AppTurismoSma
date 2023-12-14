@@ -58,16 +58,16 @@ function Login({ navigation }) {
               setErrorMessage("Ingresar Email y Contraseña");
             }
             
-            // if (true) {
-            //   handleLogin(email, password)
-            // } else {
-            //   setErrorMessage("Datos incorrectos")                
-            // }
-            // if (email === "" || password === "") {
-            // setErrorMessage("ingresar mail y contraseña")                
-            // } else {
-            //   handleLogin(email, password)
-            // }
+            if (true) {
+              handleLogin(email, password)
+            } else {
+              setErrorMessage("Datos incorrectos")                
+            }
+            if (email === "" || password === "") {
+            setErrorMessage("ingresar mail y contraseña")                
+            } else {
+              handleLogin(email, password)
+            }
           }} />
            {errorMessage ? <Subtitulo texto={errorMessage} font={15} /> : null}  
         </View>

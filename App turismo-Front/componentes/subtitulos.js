@@ -10,7 +10,8 @@ const Subtitulos = (props) => {
         color: "black",
         fontWeight: "bold",
        alignSelf: "center",
-       top: 330
+       top: -110
+
       }}
     >
       {texto}

@@ -14,7 +14,6 @@ export function Input (props){
                 inputMode={tipo}
                 textColor="black"
                 activeOutlineColor="black"
-                secureTextEntry
                 mode="outlined"
                 onChangeText={cambios}
                 right={<TextInput.Icon icon={ico} />}
@@ -28,7 +27,8 @@ const styles = StyleSheet.create({
     textinput:{
         width: 350,
         fontSize: 15,
-        marginTop:5,
+        margin: 10,
+        
     },
     texto:{
         marginTop: 10

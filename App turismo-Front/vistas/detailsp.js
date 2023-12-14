@@ -20,6 +20,7 @@ const Detalles = ({ navigation, route }) => {
             <Text style={estilos.desc}>
                 {producto.descripcion}
             </Text>
+            
             <BotonDescuento textoD="¡Conseguí tu descuento %!" onPres={() => navigation.navigate('Descuentos')} />
 
         </View>

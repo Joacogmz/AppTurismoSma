@@ -31,23 +31,27 @@ const Home = ({ navigation }) => {
         },
         {
             id: 4,
-            nombre: "",
-            img: "",
+            nombre: "Kayak en San Martín de los Andes",
+            img: "https://www.laninturismo.com/s/s174/fotos/fotoc-11.jpg",
+            descripcion: "Nuestro lugar es uno de los lugares mas maravillosos de la Patagonia Argentina para salir a remar. Los paseos en kayak de travesía, nos permiten llegar a lugares inhóspitos y con cierta facilidad a lugares donde nadie a llegado. Vía lacustre, se accede a playas totalmente privadas para nosotros o nuestro grupo, pues las escarpadas montañas que rodean el lago hacer impensable el acceso de otra forma. De hecho, su bajo calado nos permite internarnos en zonas donde otras embarcaciones mas grande no podrían entrar. El silencioso navegar del kayak no desentona con el medio que nos rodea y lo mejor es que nos permite disfrutar de los ruidos naturales del lago o el bosque."
         },
         {
             id: 5,
-            nombre: "",
-            img: "",
+            nombre: "Rafting en río Chimehuin",
+            img: "https://latitur.com/uploads/media/cactus_product_tours_by_locals/416.raftingneuquen@hotmail.com/3083/03733598c9665bbd1592f64b117233967cba9a10.jpeg",
+            descripcion: "Epoca: Todo el Año. (Con menos frecuencia de Mayo a Octubre) Modalidad: Rafting con o sin traslado desde San Martin o Junin de los Andes al río. Incluye: Traslado opcional hasta el río. Equipo completo con casco, Remo, Chaleco Salvavidas, Campera de río impermeable, traje de neopren, equipo de seguridad y asistencia en balsas. Seguro Accidentes Personales y RC. Refrigerio o Merienda. Que caracteriza este río? : Esta cerca de San Martin de los andes, lo cual la convierte en una excursión de medio día, con buena vista del Volcán Lanin, muy familiar y seguro, puede hacerse hasta con los mais chicos y el costo es el mas bajo de todos los raftings de la región."
         },
         {
             id: 6,
-            nombre: "",
-            img: "",
+            nombre: "Cabalgatas en San Martin de los Andes",
+            img: "https://www.diarioneuquen.com.ar/wp-content/uploads/2019/01/cabalagata.jpg",
+            descripcion: "Tipos de cabalgatas: Standard de 2 horas, de 3 horas, Medio día y Día completo con asado. Por comunidades mapuches con guías de la comunidad. Recorrido por senderos de Montaña. Nuestro caballo y guía, nos llevarán a lugares inaccesibles por otro medio. En general, la mayoría de las rutas o caminos no son hechos para llegar a lugares de gran belleza paisajística, sino para llegar a lugares que deben ser unidos por intereses mayormente comerciales o de transporte. Esto deja afuera de nuestra vista, bellezas naturales que en ocasiones ni imaginamos, ademas de puntos de gran relevancia cultural, geológica o histórica."
         },
         {
             id: 7,
-            nombre: "",
-            img: "",
+            nombre: "Mountain bike en San Martín de los Andes - Medio dia a Laguna Rosales",
+            img: "https://tarifariosonline.com/cdn/travelstore/salepoint/6CILS327TMRC/services/85LB8ZTA9FGF/11.jpg",
+            descripcion: "Salida desde San Martin de los Andes, subiendo por ruta 48, empalme con huella andina, mates en Laguna Rosales y bajada por RP 62 y RN40. Desde SMA hasta ruta 48 hay 2 lomas importantes, una vez en RP 48 es una subida más o menos constante. Desde ruta 48 hasta laguna Rosales es bastante empinado, inclusive varios lugares de huella andina subimos con la bici en la mano. Laguna Rosales es un lugar hermoso, para dedicarle un rato con mates o inclusive comer algo o meter una siesta. La bajada por ruta 62 es asfalto, una bajada hermosa, por tramos se va a mucha velocidad."
         },
 
 

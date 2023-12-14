@@ -1,6 +1,6 @@
 //endpoint del api
 const api = "http:192.168.3.141:3000/login";
-const publi = "http:192.168.3.122:3000/publi";
+const publi = "http:192.168.3.141:3000/imagen";
 const apisu = "http:192.168.3.141:3000/usersp";
 
 //funcion para loguear usuario

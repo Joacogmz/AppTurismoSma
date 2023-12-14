@@ -23,7 +23,7 @@ const router = Router();
  *  get:
  *      sumary: obtiene todos los usuarios
  */
-router.get('/tasks', getPublish);
+router.get('/imagen', getPublish);
 
 //get users for id
 router.get('/users/:id', getUserById);
